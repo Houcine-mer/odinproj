@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+@layer base{
+  body {
+    @apply bg-[#bbc1cfa1] overflow-x-hidden
+
+  }
+}
+
